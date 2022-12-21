@@ -58,6 +58,6 @@ body:
     validations:
       required: false
   - type: markdown
-      attributes:
-        value: |
-          Thanks for your contributing!
+    attributes:
+      value: |
+        Thanks for your contributing!
